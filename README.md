@@ -2,24 +2,6 @@
 
 As a preparation for the work, we are going to install the following software in **Ubuntu 20.04**. I created the scripts in the following numbered order, it is best if they are run in the same order.
 
-<br>
-
-## Table of Contents 
-| #  |         Topic          |   Description        | Status
-|:--:|:-------------------------:|:--------------------:|:-----:|
-| 1  | [Setting up the tools](https://github.com/rajivbishwokarma/msvsdasms/tree/master/week0#1-setting-up-the-tools)      | Set up all the software and PDK required for the following labs|:white_check_mark:|
-| 2  | [Pre-layout characterization of inverter using xschem and ngspice](https://github.com/rajivbishwokarma/msvsdasms/tree/master/week0#2-pre-layout-characterization-of-inverter-using-xschem-and-ngspice) | Create an inverter in xschem and run simulation|:white_check_mark:|
-| 3  | [Post-layout characterization of inverter using Magic, xschem, and ngspice](https://github.com/rajivbishwokarma/msvsdasms/tree/master/week0#3-post-layout-characterization-of-inverter-using-magic-xschem-and-ngspice) | Create layout and extract netlist to run simulation|:white_check_mark:|
-| 4  | [LVS of the Inverter](https://github.com/rajivbishwokarma/msvsdasms/tree/master/week0#4-lvs-of-the-inverter) | Run layout vs schematic for two netlists |:white_check_mark:|
-| 5  | [Pre-layout characterization of Fn using xchem and ngspice](https://github.com/rajivbishwokarma/msvsdasms/tree/master/week0#5-pre-layout-characterization-of-fn-using-xchem-and-ngspice) | Create Fn=[(B+D).(A+C)+E.F]' in xschem and run simulation |:large_orange_diamond:|
-| 6  | [Post-layout characterization of Fn using Magic, xschem and ngspice](https://github.com/rajivbishwokarma/msvsdasms/tree/master/week0#6-post-layout-characterization-of-fn-using-magic-xschem-and-ngspice) | Create layout and extract netlist to run simulation |:large_orange_diamond:|
-| 7  | [LVS of the Fn function](https://github.com/rajivbishwokarma/msvsdasms/tree/master/week0#7-lvs-of-the-fn-function) | Run layout vs schematic for two netlists of Fn|:large_orange_diamond:|
-
-
-
-
-<br><br><br>
-
 
 ## 1. Setting up the tools
 
