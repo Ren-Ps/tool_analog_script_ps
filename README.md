@@ -106,6 +106,6 @@ And, then use one of the examples to test the setup with:
 schematic2layout.py ../pdks/ALIGN-pdk-sky130/examples/telescopic_ota/ -p ../pdks/ALIGN-pdk-sky130/SKY130_PDK/
 ```
 
-# For Installation of other tools like OpenRoad, OpenLane, KLayout, Design Flow with short Tutorial Kindly refer the PDF Doc.
+## For Installation of other tools like OpenRoad, OpenLane, KLayout, Design Flow with short Tutorial Kindly refer the PDF Doc. -Pritesh
 
 <br><br>
