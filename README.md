@@ -1,6 +1,6 @@
 # Tool chain for Analog Design 
 
-**  For Digital tools like OpenRoad, OpenLane, Design Flow with short Tutorial Kindly refer the PDF Doc.
+*** For Digital tools like OpenRoad, OpenLane, Design Flow with short Tutorial Kindly refer the PDF Doc.
 
 As a preparation for the work, we are going to install the following software in **Ubuntu 20.04**. I created the scripts in the following numbered order, it is best if they are run in the same order.
 
